@@ -1,0 +1,13 @@
+## The argument type 'Color' can't be assigned to the parameter type 'MaterialStateProperty<Color>'.
+
+`ElevatedButton(
+                     style: ButtonStyle(
+                        backgroundColor:
+                            MaterialStateProperty.resolveWith<Color>(
+                          (Set<MaterialState> states) {
+                            if (states.contains(MaterialState.pressed))
+                              return Colors.black;
+                            return Colors.black38; 
+                          },
+                        ),
+                        ),`
