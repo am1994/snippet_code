@@ -1,6 +1,6 @@
 # Flutter Snippet Code 
-I made this repository to collect all issues that i have faced in my flutter code with their sollution.
+I made this repository to collect all issues that i have faced in my flutter code with their sollutions.
 
-## if that help you don't forgte to hit Satr!!
+## if that help you don't forget to hit Star!!
 
-thank you
+## thank you
